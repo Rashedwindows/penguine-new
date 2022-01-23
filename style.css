@@ -1,24 +1,46 @@
-.header-section{
-
-    z-index: 2;
-}
 
 .header-section,.first-section{
 
-    background-color: aqua;
+    background-color: #FFFBF0;
+    overflow: hidden;
 }
 
 .first-section h1{
     
     font-size: 80px;
+    color:#363958;
     
 
+}
+
+
+.price{
+
+    color:#FABE4C;
+    font-weight: bold;
+}
+
+.fstp{
+
+    color:#3E3E3E;
+}
+.spn-clr{
+
+    color:#FABE4C;
 }
 
 .first-section{
 
     padding-bottom: 50px;
     margin-bottom: 10px;
+}
+
+.btn{
+
+    background-color: #A4BC46;
+    border: none;
+    border-radius: 10px;
+    padding:10px 15px
 }
 
 
